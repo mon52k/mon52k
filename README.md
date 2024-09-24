@@ -6,7 +6,7 @@
 | [String+](https://github.com/mon52k/s21_string_plus) | Реализация библиотеки `string.h` с некоторыми дополнениями(sprintf). |
 | [Decimal](https://github.com/mon52k/s21_decimal) | Реализация библиотеки `decimal.h`. Эта библиотека добавляет возможность работы с типом «decimal», который отсутствует в стандарте языка. |
 | [Matrix](https://github.com/mon52k/s21_matrix) | Реализация библиотеки `matrix.h`. для бработки числовых матриц. |
-
+| [Tetris](https://github.com/mon52k/s21_C7_BrickGame_v1.0) | Реализация компьютерной игры советского времени под названием "Тетрис"|
 ## DevOps
 | Название | Описание |
 | ----------- | ----------- |
