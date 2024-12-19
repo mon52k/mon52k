@@ -1,6 +1,6 @@
 # Hi there 👋
 ## My name is Ilyas, and I am a software developer!
-`## С`
+## С
 | Title | Description |
 | ----------- | ----------- |
 | [SimpleBashUtils](https://github.com/mon52k/C3_SimpleBashUtils) |  Работа с базовыми утилитами Bash по работе с текстами. Реализация утилит `cat` и `grep`. |
@@ -16,7 +16,7 @@
 ## DevOps
 | Title | Description |
 | ----------- | ----------- |
-| [Linux](https://github.com/mon52k/s21_Linux) | Знакомство с администрированием и VirtualBox. |
-| [LinuxNetwork](https://github.com/mon52k/s21_LinuxNetwork) | Работа с сетями и VirtualBox. |
-| [SimpleDocker](https://github.com/mon52k/s21_SimpleDocker) | Изучение docker, dockle, docker compose. Разработка простого докер-образа для собственного сервера. |
-| [CI/CD](https://github.com/mon52k/s21_CICD) | Изучение и использование CI/CD для проекта SimpleBashUtils, реализация получения уведомлений в Telegram. |
+| [Linux](https://github.com/mon52k/s21_Linux) | Знакомство с `администрированием` и `VirtualBox`. |
+| [LinuxNetwork](https://github.com/mon52k/s21_LinuxNetwork) | Работа с `сетями` и `VirtualBox`. |
+| [SimpleDocker](https://github.com/mon52k/s21_SimpleDocker) | Изучение `docker`, `dockle`, `docker compose`. Разработка простого докер-образа для собственного сервера. |
+| [CI/CD](https://github.com/mon52k/s21_CICD) | Изучение и использование `CI/CD` для проекта `SimpleBashUtils`, реализация получения уведомлений в Telegram. |
