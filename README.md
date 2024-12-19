@@ -20,3 +20,7 @@
 | [LinuxNetwork](https://github.com/mon52k/s21_LinuxNetwork) | Работа с `сетями` и `VirtualBox`. |
 | [SimpleDocker](https://github.com/mon52k/s21_SimpleDocker) | Изучение `docker`, `dockle`, `docker compose`. Разработка простого докер-образа для собственного сервера. |
 | [CI/CD](https://github.com/mon52k/s21_CICD) | Изучение и использование `CI/CD` для проекта `SimpleBashUtils`, реализация получения уведомлений в Telegram. |
+## SQL
+| Title | Description |
+| ----------- | ----------- |
+| [s21_SQL_Bootcamp](https://github.com/mon52k/s21_SQL_Bootcamp) | Реализация SQL-запросов,создание баз данных,работа с индексами. |
