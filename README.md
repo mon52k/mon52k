@@ -1,7 +1,7 @@
 # Hi there 👋
 ## My name is Ilyas, and I am a software developer!
-## С
-| Название | Описание |
+`## С`
+| Title | Description |
 | ----------- | ----------- |
 | [SimpleBashUtils](https://github.com/mon52k/C3_SimpleBashUtils) |  Работа с базовыми утилитами Bash по работе с текстами. Реализация утилит `cat` и `grep`. |
 | [String+](https://github.com/mon52k/s21_string_plus) | Реализация библиотеки `string.h` с некоторыми дополнениями(sprintf). |
@@ -9,12 +9,12 @@
 | [Matrix](https://github.com/mon52k/s21_matrix) | Реализация библиотеки `matrix.h`. для обработки числовых матриц. |
 | [Tetris](https://github.com/mon52k/s21_C7_BrickGame_v1.0) | Реализация компьютерной игры советского времени под названием "Тетрис"|
 ## С++
-| Название | Описание |
+| Title | Description |
 | ----------- | ----------- |
 | [s21_CPP_matrix](https://github.com/mon52k/s21_CPP_matrix) | Реализация библиотеки `s21_matrix_oop.h` для обработки числовых матриц.|
 | [s21_CCP_containers](https://github.com/mon52k/s21_CPP_containers) | Реализация библиотеки `s21_containers.h`. |
 ## DevOps
-| Название | Описание |
+| Title | Description |
 | ----------- | ----------- |
 | [Linux](https://github.com/mon52k/s21_Linux) | Знакомство с администрированием и VirtualBox. |
 | [LinuxNetwork](https://github.com/mon52k/s21_LinuxNetwork) | Работа с сетями и VirtualBox. |
